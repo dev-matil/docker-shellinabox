@@ -9,4 +9,4 @@ first build the container
 
 `docker build -t shellinabox .`
 
-just run Dockerfile `docker run -d -P shellinabox`
+just run  `docker run -d -P shellinabox`
